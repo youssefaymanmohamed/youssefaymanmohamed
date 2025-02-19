@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssefaymanmohamed/&color=blue" alt="youssefaymanmohamed/" />
+  <img src="https://komarev.com/ghpvc/?username=youssefaymanmohamed&color=blue" alt="youssefaymanmohamed" />
 </p>
+
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="7.5%"> About Me
 
