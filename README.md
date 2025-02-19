@@ -13,13 +13,6 @@
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="7.5%"> About Me
 
-
-Passionate about Artificial Intelligence and Robotics
-Currently working on an assistant robot project
-Enthusiastic about NLP and Machine Learning
-Always exploring new technologies and improving my skills
-Open to internships and research opportunities in AI and NLP
-
 - **Passionate about Artificial Intelligence, Intelligent systems and Robotics**
 - **Currently working on an assistant robot project**
 - **Motivated Artificial Intelligence student**
