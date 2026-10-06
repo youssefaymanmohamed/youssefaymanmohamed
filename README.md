@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssefaymanmohamed"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-8EBFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101C2D" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/youssef-ayman-mohamed/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-8EBFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101C2D" alt="Connect on LinkedIn" /></a>
   <a href="mailto:youssefaymanmohamed1@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-FFAD87?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101C2D" alt="Email Youssef" /></a>
 </p>
 
@@ -103,5 +103,4 @@ A personal assistant robot that brings **language, vision, speech, and physical 
 ---
 
 <p align="center"><b>Have a problem that needs an AI engineer?</b><br />Let's talk about what you're building.</p>
-<p align="center"><a href="mailto:youssefaymanmohamed1@gmail.com">youssefaymanmohamed1@gmail.com</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/youssefaymanmohamed">LinkedIn</a></p>
-
+<p align="center"><a href="mailto:youssefaymanmohamed1@gmail.com">youssefaymanmohamed1@gmail.com</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/youssef-ayman-mohamed/">LinkedIn</a></p>
