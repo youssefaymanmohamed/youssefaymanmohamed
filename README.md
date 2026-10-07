@@ -43,23 +43,6 @@ A robotic assistant bringing **language, vision, speech, and physical control** 
 
 ---
 
-## 🛤️ My journey
-
-```mermaid
-timeline
-    title AI, software and robotics
-    2024 : RoboCup@Home — 1st place in Egypt
-         : RoboCup@Home Major — 3rd place in Eindhoven
-         : Machine Learning Intern — TechnoHacks
-         : Started DEPI — AI and Data Science
-    2025 : Completed DEPI
-         : B.Sc. Artificial Intelligence — AASTMT
-    2026 : Freelance AI Engineer — Upwork
-         : Software evaluation and programming task design
-```
-
----
-
 ## 🛠️ Tech arsenal
 
 <p align="center"><b>Languages</b></p>
